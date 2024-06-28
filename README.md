@@ -9,3 +9,4 @@
         - Devops is a set of practise or tools that streamlines the collaboration with different teams involved in a application lifecycle resulting in faster and quality code delivery
         - Devops practises: Implement CI and CD, Version control, Infrastructure as Code, Continuous Monitoring
    - Plan Agile with GitHub Projects and Azure Boards
+         Project boards are made up of issues, pull requests, and notes categorized as cards you can drag and drop into your chosen columns. 
